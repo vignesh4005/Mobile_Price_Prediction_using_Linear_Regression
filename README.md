@@ -14,7 +14,7 @@ This project uses Linear Regression to predict mobile phone prices based on vari
 4. **Evaluation**: Assessed the model's accuracy using metrics such as Mean Absolute Error (MAE) and R-squared.
 
 ## Results
-The Linear Regression model achieved [mention accuracy or other metrics if calculated], providing insights into how features influence mobile pricing.
+The Linear Regression model achieved R² Score of 93.1%, providing insights into how features influence mobile pricing.
 
 ## Requirements
 - Python 3.x
