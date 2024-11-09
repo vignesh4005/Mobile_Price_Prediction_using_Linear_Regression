@@ -13,6 +13,9 @@ This project uses Linear Regression to predict mobile phone prices based on vari
 3. **Model Training**: Trained a Linear Regression model to predict price ranges.
 4. **Evaluation**: Assessed the model's accuracy using metrics such as Mean Absolute Error (MAE) and R-squared.
 
+## Project Link
+[Mobile Price Prediction using Linear Regression](https://github.com/vignesh4005/Mobile_Price_Prediction_using_Linear_Regression/blob/main/Mobile%20Price%20Prediction.ipynb)
+
 ## Results
 The Linear Regression model achieved R² Score of 93.1%, providing insights into how features influence mobile pricing.
 
